@@ -22,7 +22,7 @@
         <q-btn class="q-mx-sm" color="primary" label="Login" @click="$router.push({ name: 'home' })" style="width: 100%"/>
       </q-card-actions>
       <q-card-actions class="full-width">
-        <q-btn flat no-caps class="q-mx-sm" color="primary" label="Esqueci minha senha" @click="$router.push({ name: 'esqueciSenha' })" style="width: 100%"/>
+        <q-btn flat no-caps class="q-mx-sm" color="primary" label="Esqueci minha senhas" @click="$router.push({ name: 'esqueciSenha' })" style="width: 100%"/>
       </q-card-actions>
     </q-card>
 
